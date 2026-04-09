@@ -71,6 +71,20 @@ Credentials Oracle :
 6. Remplir le formulaire dynamique → Soumettre
 7. Les donnees apparaissent dans le tableau avec des colonnes dynamiques
 
+## Screenshots
+
+### Liste des templates
+![Liste des templates](docs/screenshots/templates-list.png)
+
+### Definition des champs
+![Definition des champs](docs/screenshots/field-definitions.png)
+
+### Formulaire dynamique
+![Formulaire dynamique](docs/screenshots/dynamic-form.png)
+
+### Donnees soumises
+![Donnees soumises](docs/screenshots/submitted-data.png)
+
 ## API REST
 
 ```
